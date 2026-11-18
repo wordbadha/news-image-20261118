@@ -1,6 +1,10 @@
+[![make.fun](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/wordbadha/news-image-20261118/rank.svg)](https://make.fun/bounty/news-image-20261118)
+[![reward](https://make.fun/badge/news-image-20261118/wordbadha/news-image-20261118/reward.svg)](https://make.fun/bounty/news-image-20261118)
+
 # The World Today — 18 November 2026 in one image
 
-Entry for the make.fun bounty "Sum up 18 November's world news in one image"
+Entry for the [make.fun bounty "Sum up 18 November's world news in one image"](https://make.fun/bounty/news-image-20261118)
 (`news-image-20261118`).
 
 `main.ts` (Node 22, standard library only) copies `entry.png` — a front page
